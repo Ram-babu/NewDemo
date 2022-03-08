@@ -1,0 +1,10 @@
+<html>
+	<body>
+		<h2>About Us</h2>
+<<<<<<< HEAD
+		<p>Free Git Tutorial</p>
+=======
+		<p>This is online git tutorial</p>
+>>>>>>> cc471239ceb83f558973231b33869134e9abf9ea
+	</body>
+</html>
